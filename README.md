@@ -1,1 +1,1 @@
-This is a fullu functional ATM simulator for everyday ATM usage.
+This is a fully functional ATM simulator for customers everyday ATM usage.
